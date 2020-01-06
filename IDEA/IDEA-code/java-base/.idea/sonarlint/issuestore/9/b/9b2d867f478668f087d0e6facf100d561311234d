@@ -1,0 +1,11 @@
+
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(£§ª¿üÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(——¹å
+@squid:S1125")Remove the literal "false" boolean value.(°­»
+isquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‰®Åüÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+Dsquid:S1481"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8á”´…ò-
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8õÄıò-

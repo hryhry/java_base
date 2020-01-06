@@ -1,0 +1,8 @@
+
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Äèðû8›ÏÌ´ó-
+lsquid:S3008"NRename this field "AGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§áÍê8›ÏÌ´ó-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ý«ã¾8›ÏÌ´ó-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(” Üúúÿÿÿÿ8›ÏÌ´ó-
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¾œ›8›ÏÌ´ó-
+isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(õÁÿ8›ÏÌ´ó-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íƒ…®

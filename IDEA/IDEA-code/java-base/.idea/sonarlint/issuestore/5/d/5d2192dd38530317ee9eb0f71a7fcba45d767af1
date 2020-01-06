@@ -1,0 +1,20 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾êâ©ùÿÿÿÿ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Lsquid:S2209-"5Change this instance-reference to a static reference.(‹İ¶Û
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(”É‹ş
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(şâ¥Ú
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ä½Åúÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(»Û¦“
+Ssquid:S1481"7Remove this unused "abortPolicyHandler" local variable.(ü¢šËúÿÿÿÿ
+]squid:S2142."FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Ø‡Åøÿÿÿÿ
+Nsquid:S1135/"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(äß×Øÿÿÿÿÿ
